@@ -1,0 +1,78 @@
+
+---Archivos descargados---
+Los archivos de importación para Top Store Default ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = http://localhost/Chamba/wordpress
+Archivo de datos = C:\wamp64\www\Chamba\wordpress/wp-content/uploads/2022/07/demo-content-import-file_2022-07-28__23-58-31.xml
+Archivo de widget = C:\wamp64\www\Chamba\wordpress/wp-content/uploads/2022/07/demo-widgets-import-file_2022-07-28__23-58-31.json
+Archivo del personalizador = C:\wamp64\www\Chamba\wordpress/wp-content/uploads/2022/07/demo-customizer-import-file_2022-07-28__23-58-31.dat
+Archivos de Redux:
+ ¡no definido!
+
+------
+¡Nueva llamada AJAX!
+
+
+---Importando los widgets---
+Barra lateral principal : 
+
+Lista de productos - Popular - Importado
+Nube de etiquetas - Tag Clouds - Importado
+Imagen - Sin título - Importado
+
+Barra lateral secundaria : 
+
+Topstore : Highlight Widget - Sin título - Importado
+Top Store : About Us widget - Know Us - Importado
+Top Store : Post Slide Widget - Store Updates - Importado
+Galería - Product Showcase - Importado
+
+Segundo widget debajo del pie de página : 
+
+Imagen - Sin título - Importado
+
+Área de widgets del pie de página 1. : 
+
+Top Store : About Us widget - Sin título - Importado
+Texto - Connect With Us - Importado
+
+Área de widgets del pie de página 2. : 
+
+Menú de navegación - End Points - Importado
+Texto - More About Store - Importado
+
+Área de widgets del pie de página 3. : 
+
+Lista de productos - Products - Importado
+
+Área de widgets del pie de página 4. : 
+
+HTML personalizado - Contact Details - Importado
+Texto - Offline Stores - Importado
+
+Barra lateral de WooCommerce : 
+
+Filtrar productos por precio - Filter by Price - Importado
+Filtrar productos por atributo - Filter by Color - Importado
+Filtrar productos por puntuación - Average Rating - Importado
+
+ThemeHunk MegaMenu Widgets : 
+
+Imagen - Home 1 - Importado
+Imagen - Home 2 - Importado
+Imagen - Home 3 - Importado
+Imagen - Sin título - Importado
+Imagen - Sin título - Importado
+Imagen - Sin título - Importado
+Páginas - Sin título - Importado
+Páginas - Sin título - Importado
+Páginas - Sin título - Importado
+
+
+
+---Importación de los ajustes del personalizador---
+¡Importación de los ajustes del personalizador finalizado!
+
+---ocdi/after_import---
+
